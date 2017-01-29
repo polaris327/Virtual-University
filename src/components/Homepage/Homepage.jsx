@@ -57,23 +57,11 @@ class Homepage extends Component {
 				
 				{popular}
 
-< div > WEBPACK
-TESTING
-PURPOSE
-Lorem
-ipsum
-dolor
-sit
-amet, consectetur
-adipisicing
-elit.Cum
-omnis
-quos
-repellendus ? Aspernatur deserunt,
+				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum omnis quos repellendus? Aspernatur deserunt,
 					esse quam rem sint soluta totam! Alias at dolores eveniet incidunt porro! Excepturi mollitia officia
-					voluptates.
-					<hr/>
-					<br/>
+				voluptates.
+				<hr/>
+				<br/>
 				</div>
 				
 				{recent}
