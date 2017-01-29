@@ -56,8 +56,20 @@ class Homepage extends Component {
 				<h1>{this.props.title}</h1>
 				
 				{popular}
-				
-				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum omnis quos repellendus? Aspernatur deserunt,
+
+< div > WEBPACK
+TESTING
+PURPOSE
+Lorem
+ipsum
+dolor
+sit
+amet, consectetur
+adipisicing
+elit.Cum
+omnis
+quos
+repellendus ? Aspernatur deserunt,
 					esse quam rem sint soluta totam! Alias at dolores eveniet incidunt porro! Excepturi mollitia officia
 					voluptates.
 					<hr/>
